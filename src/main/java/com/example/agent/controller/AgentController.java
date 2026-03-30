@@ -1,5 +1,6 @@
-package com.example.agent;
+package com.example.agent.controller;
 
+import com.example.agent.DatabaseAgent;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
